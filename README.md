@@ -9,6 +9,8 @@ __长期支持__。
 
 [0. 写在前面的话](https://github.com/mthli/EasyRust/blob/master/0.%20%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D.md "0. 写在前面的话")
 
+[1. Hello world!]( "1. Hello world!")
+
 __未完待续__。
 
 ## 参考文档
