@@ -1,7 +1,7 @@
 EasyRust
 ===
 
-一份简单的Rust中文入门教程，基于Rust官方最新的Stable版本创建。
+一份简单的Rust中文入门教程，基于Rust官方的__Stable版本__创建。
 
 __长期支持__。
 
