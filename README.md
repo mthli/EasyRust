@@ -11,6 +11,8 @@ __长期支持__。
 
 [1. Hello world!](https://github.com/mthli/EasyRust/blob/master/1.%20Hello%20world!.md "1. Hello world!")
 
+[2. 变量绑定](https://github.com/mthli/EasyRust/blob/master/2.%20%E5%8F%98%E9%87%8F%E7%BB%91%E5%AE%9A.md "2. 变量绑定")
+
 __未完待续__。
 
 ## 参考文档
